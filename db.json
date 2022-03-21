@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "title": "Eat",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Sleep",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Code",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Play",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Sing",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Dance",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Cry",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Laugh",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Salute",
+      "status": false,
+      "id": 9
+    }
+  ]
+}
